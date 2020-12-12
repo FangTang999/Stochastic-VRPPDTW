@@ -3,8 +3,7 @@
 This algorithm is suitable for solving the single-vehicle VRP problem with
 pickup and delivery with time window (VRPPDTW) based on historical daily travel
 time data, using Lagrangian relaxation algorithm and dynamic programming
-algorithm. The model and algorithm are sepcified in my thesis, which could be
-cited after July 2021.
+algorithm. 
 
 **Input:** physical network, passenger information(original, destination and
 time window)and vehicle information(capacity and time window)
@@ -16,3 +15,7 @@ passenger demands constraints and unique physical path constraints
 
 **Objective:** the least-expected cost
 
+The model and algorithm are sepcified in my thesis, which could be
+cited after July 2021.
+
+The thesis defense video: https://www.bilibili.com/video/BV1FA411i7hL
